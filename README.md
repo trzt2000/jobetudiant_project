@@ -16,10 +16,18 @@ Project made to learn frontend, backend, restAPI developpement, and implementing
 
 **Home page :**
 
+![gif1](demo/output1.gif)
+
 ###### P.S: the following actions needs Authentification
 
 **Posting Job offers :**
 
+![gif2](demo/output3.gif)
+
 **Apply to job :**
 
+![gif3](demo/output4.gif)
+
 **Reviewing job applications :**
+
+![gif4](demo/output6.gif)
